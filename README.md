@@ -19,13 +19,13 @@
 
 ***Specifications***
 
- #   To create an eye blink detector, eyes will be the area on the face that we are interested in. We can divide the process of developing an eye blink detector         into the following steps:
-#    1.Detecting the face in the video
-#    2.Detecting facial landmarks of interest (the eyes)
-#    3.Calculating eye width and height
-#    4.Calculating eye aspect ratio (EAR) – relation between the width and the height of the eye
-#    5.Displaying the eye blink counter in the output video
-#    6.Based on the blinks, an alert is initiated to the user with an audio message and popup message.
+   To create an eye blink detector, eyes will be the area on the face that we are interested in. We can divide the process of developing an eye blink detector         into the following steps:
+    1.Detecting the face in the video
+    2.Detecting facial landmarks of interest (the eyes)
+    3.Calculating eye width and height
+    4.Calculating eye aspect ratio (EAR) – relation between the width and the height of the eye
+    5.Displaying the eye blink counter in the output video
+    6.Based on the blinks, an alert is initiated to the user with an audio message and popup message.
 
 
 ***Project Report***
