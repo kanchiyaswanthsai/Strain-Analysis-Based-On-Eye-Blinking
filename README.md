@@ -4,7 +4,7 @@
 
 
 ***Overview***
-    A neural network model is built which alerts the user if eyes are getting strained. This model uses the integrated webcam to capture the face (eyes) of the person. It captures the eye movement and counts the number of times a person blinks. If blink count deviates from the average value (if the number of blinks is less or more), then an alert is initiated by playing an audio message along with a  popup message is displayed on the screen appropriately.
+A neural network model is built which alerts the user if eyes are getting strained. This model uses the integrated webcam to capture the face (eyes) of the person. It captures the eye movement and counts the number of times a person blinks. If blink count deviates from the average value (if the number of blinks is less or more), then an alert is initiated by playing an audio message along with a  popup message is displayed on the screen appropriately.
 ***Goals***
     1.know fundamental Computer vision, google text to speech.
     2.Gain a broad understanding of face landmark detection.
