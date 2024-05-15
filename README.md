@@ -5,6 +5,8 @@
 
 ***Overview***
     A neural network model is built which alerts the user if eyes are getting strained. This model uses the integrated webcam to capture the face (eyes) of            the person. It captures the eye movement and counts the number of times a person blinks. If blink count deviates from the average value (if the number of          blinks is less or more), then an alert is initiated by playing an audio message along with a  popup message is displayed on the screen appropriately.
+
+
 ***Goals***
     1.know fundamental Computer vision, google text to speech.
     2.Gain a broad understanding of face landmark detection.
@@ -12,6 +14,8 @@
     4.Calculate Eye aspect ratio
     5.Work with google text to speech
     6.Work with Tkinter
+
+
 ***Specifications***
     To create an eye blink detector, eyes will be the area on the face that we are interested in. We can divide the process of developing an eye blink detector         into the following steps:
     1.Detecting the face in the video
@@ -20,6 +24,8 @@
     4.Calculating eye aspect ratio (EAR) – relation between the width and the height of the eye
     5.Displaying the eye blink counter in the output video
     6.Based on the blinks, an alert is initiated to the user with an audio message and popup message.
+
+
 ***Project Report***
     Tsk 572 (Importing Necessary Libraries)
     All the necessary libraries have been successfully imported in the main application file “app_eye.py” . As previously mentioned in the project prerequisites,       Jupyter notebook has been used to accomplish this task and later the file has been extracted as a python file with a (.py) extension.
