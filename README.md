@@ -4,14 +4,14 @@
 
 
 ***Overview***
-A neural network model is built which alerts the user if eyes are getting strained. This model uses the integrated webcam to capture the face (eyes) of the person. It captures the eye movement and counts the number of times a person blinks. If blink count deviates from the average value (if the number of blinks is less or more), then an alert is initiated by playing an audio message along with a  popup message is displayed on the screen appropriately.
+   # A neural network model is built which alerts the user if eyes are getting strained. This model uses the integrated webcam to capture the face (eyes) of            the person. It captures the eye movement and counts the number of times a person blinks. If blink count deviates from the average value (if the number of          blinks is less or more), then an alert is initiated by playing an audio message along with a  popup message is displayed on the screen appropriately.
 ***Goals***
-    1.know fundamental Computer vision, google text to speech.
-    2.Gain a broad understanding of face landmark detection.
-    3.know how to install necessary packages and set up the environment.
-    4.Calculate Eye aspect ratio
-    5.Work with google text to speech
-    6.Work with Tkinter
+  #  1.know fundamental Computer vision, google text to speech.
+  #  2.Gain a broad understanding of face landmark detection.
+  #  3.know how to install necessary packages and set up the environment.
+  #  4.Calculate Eye aspect ratio
+  #  5.Work with google text to speech
+  #  6.Work with Tkinter
 ***Specifications***
     To create an eye blink detector, eyes will be the area on the face that we are interested in. We can divide the process of developing an eye blink detector         into the following steps:
     1.Detecting the face in the video
